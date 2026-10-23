@@ -1,0 +1,16 @@
+[
+  {
+    "Version": "1.5.97", "Manifest": "2289561010626853674", "SkseVersion": "2.0.20",
+    "SkseUrl": "https://skse.silverlock.org/beta/skse64_2_00_20.7z",
+    "RequiredFiles": ["SkyrimSE.exe", "SkyrimSELauncher.exe", "steam_api64.dll", "binkw64.dll", "Data/Skyrim - Shaders.bsa"]
+  },
+  {
+    "Version": "1.6.1170", "Manifest": "1914580699073641964", "SkseVersion": "2.2.6",
+    "SkseUrl": "https://skse.silverlock.org/download/archive/skse64_2_02_06.7z",
+    "RequiredFiles": ["SkyrimSE.exe", "SkyrimSELauncher.exe", "steam_api64.dll", "bink2w64.dll", "Data/Skyrim - Shaders.bsa"]
+  },
+  {
+    "Version": "1.7.104", "Manifest": "4886117324142477814", "SkseVersion": "2.3.1", "SkseUrl": null,
+    "RequiredFiles": ["SkyrimSE.exe", "SkyrimSELauncher.exe", "steam_api64.dll", "bink2w64.dll", "Data/Skyrim - Shaders.bsa"]
+  }
+]

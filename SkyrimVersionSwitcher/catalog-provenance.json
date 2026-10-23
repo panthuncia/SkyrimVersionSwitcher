@@ -1,0 +1,9 @@
+{
+  "Commit": "6aac9a787d1b69037c88826298a7ffa742bb1548",
+  "Manifests": [
+    "https://raw.githubusercontent.com/Modding-Forge/Skyrim-Runtime-Swapper/6aac9a787d1b69037c88826298a7ffa742bb1548/assets/runtime/1.7.104-to-1.5.97/manifest.json",
+    "https://raw.githubusercontent.com/Modding-Forge/Skyrim-Runtime-Swapper/6aac9a787d1b69037c88826298a7ffa742bb1548/assets/runtime/1.7.104-to-1.6.1170/manifest.json"
+  ],
+  "Repository": "https://github.com/Modding-Forge/Skyrim-Runtime-Swapper",
+  "Note": "Only factual path, depot, manifest and content-hash metadata is referenced. No source code or binary patches are incorporated. Project compatibility has not been game-tested."
+}

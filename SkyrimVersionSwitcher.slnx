@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SkyrimVersionSwitcher.Core/SkyrimVersionSwitcher.Core.csproj" />
+  <Project Path="SkyrimVersionSwitcher.Tests/SkyrimVersionSwitcher.Tests.csproj" />
+  <Project Path="SkyrimVersionSwitcher/SkyrimVersionSwitcher.csproj" />
+</Solution>
